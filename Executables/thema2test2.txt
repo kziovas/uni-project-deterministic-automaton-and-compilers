@@ -1,0 +1,1 @@
+section  number_of_attendants, sum: integer;  bool, ticket_price: real; symbols: char;
